@@ -1,0 +1,9 @@
+python-a2a
+fastmcp
+langchain-openai
+yfinance
+pandas
+requests
+beautifulsoup4
+python-dotenv
+flask
